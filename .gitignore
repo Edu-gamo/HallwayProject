@@ -59,4 +59,8 @@ sysinfo.txt
 crashlytics-build.properties
 
 *.meta
+*.log
 
+/results/
+/HallwayProject/Library/*Cache/
+/HallwayProject/Library/Artifacts/
